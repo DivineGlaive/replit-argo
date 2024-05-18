@@ -32,13 +32,13 @@
                 "wsSettings": {
                     "path": "",
                     "headers": {
-                        "Host": "friend-halo-wishes-casinos.trycloudflare.com"
+                        "Host": "stocks-dive-compatibility-managed.trycloudflare.com"
                     }
                 },
                 "security": "tls",
                 "tlsSettings": {
                     "allowInsecure": true,
-                    "serverName": "friend-halo-wishes-casinos.trycloudflare.com",
+                    "serverName": "stocks-dive-compatibility-managed.trycloudflare.com",
                     "alpn": [],
                     "show": false
                 },
