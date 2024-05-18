@@ -12,7 +12,7 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "fantasya.ir",
+                        "address": "azizimashin.com",
                         "port": 443,
                         "users": [
                             {
@@ -32,13 +32,13 @@
                 "wsSettings": {
                     "path": "",
                     "headers": {
-                        "Host": "stocks-dive-compatibility-managed.trycloudflare.com"
+                        "Host": "arrival-um-cache-stations.trycloudflare.com"
                     }
                 },
                 "security": "tls",
                 "tlsSettings": {
                     "allowInsecure": true,
-                    "serverName": "stocks-dive-compatibility-managed.trycloudflare.com",
+                    "serverName": "arrival-um-cache-stations.trycloudflare.com",
                     "alpn": [],
                     "show": false
                 },
